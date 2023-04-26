@@ -7,3 +7,17 @@ top: 0px;
 
 background: linear-gradient(0deg, #E4E4E4, #E4E4E4);
 }
+.imagem1{
+    position: absolute;
+width: 616px;
+height: 209px;
+left: -4px;
+top: 37px;
+}
+.imagem2{
+    position: absolute;
+width: 146px;
+height: 146px;
+left: 1210px;
+top: 58px;
+}
